@@ -22,7 +22,7 @@ There are four parts in the code.
 - ```PyTorch >= 1.8.0```
 - ```Transformers>= 4.11.3```
 - ```NumPy```
-- All experiments are performed with one A100 GPU.
+- All experiments are performed with one 4090 GPU.
 
 ## 🚀 Train & Eval
 
